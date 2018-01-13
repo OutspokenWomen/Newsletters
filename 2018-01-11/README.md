@@ -1,12 +1,12 @@
 ![](https://gallery.mailchimp.com/c8c866f345a8d4a8e760827d1/images/4fb6a751-9994-44d0-ad49-42c6f7c8047f.png)
 
-##We're on Facebook
+## We're on Facebook
 
 We now have a Facebook page to help spread our mission all over Facebook. You should "like" us! :)
 
 ![](https://gallery.mailchimp.com/c8c866f345a8d4a8e760827d1/images/18c96401-fd49-44a6-9692-2cf90cc5f607.png)
 
-###Follow and Like Our Profiles
+### Follow and Like Our Profiles
 
 We would greatly appreciate if you would retweet our pinned [Twitter](https://twitter.com/outspoken_women/status/932355947292438529) post as well as like our [Facebook page](https://www.facebook.com/outspokenwomenrock/)!
 
@@ -52,7 +52,7 @@ Outspoken Women is growing and we need more volunteers to help our mission.
 
 Event Espresso graciously donated a significant amount of money to our operating costs and travel scholarship funds. Please check out their awesome Event Registration & Ticketing Management plugin to show your appreciation.
 
-###Other Awesome Sponsors
+### Other Awesome Sponsors
 
 [![LoopConf](https://gallery.mailchimp.com/c8c866f345a8d4a8e760827d1/images/390a18e7-1a5a-4cfb-ab30-12213187d285.jpg)](https://loopconf.com/)  
 
